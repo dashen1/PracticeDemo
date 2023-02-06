@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMIdeaPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/Android Project Practice/Architect_Day11/app/src/main/res/layout/activity_insurance.xml" value="0.24947916666666667" />
+        <entry key="..\:/android/Android Project Practice/Architect_Day11/app/src/main/res/layout/activity_listview.xml" value="0.3" />
+        <entry key="..\:/android/Android Project Practice/Architect_Day11/app/src/main/res/layout/activity_main.xml" value="0.2875" />
+        <entry key="..\:/android/Android Project Practice/Architect_Day11/app/src/main/res/layout/activity_main_insurance.xml" value="0.2551928783382789" />
+        <entry key="..\:/android/Android Project Practice/Architect_Day11/app/src/main/res/layout/insurance_item_lv.xml" value="0.31197916666666664" />
+        <entry key="..\:/android/Android Project Practice/Architect_Day11/app/src/main/res/layout/item_lv.xml" value="0.3" />
+        <entry key="..\:/android/Android Project Practice/Architect_Day11/app/src/main/res/layout/item_rv.xml" value="0.2864583333333333" />
+        <entry key="..\:/android/Android Project Practice/Architect_Day11/app/src/main/res/layout/layout_header_view.xml" value="0.2640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
